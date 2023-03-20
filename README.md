@@ -6,6 +6,6 @@ Quinto Semestre
 # Docente:
 Erik Huallpa Aruquipa
 ## Estudiante:
-Ever Tallacagua Quispe
+* Ever Tallacagua Quispe
 ## Gestion:
 I-2023
