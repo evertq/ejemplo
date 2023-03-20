@@ -1,11 +1,11 @@
 # ejemplo
 sirve para modificar en el readme
 
-#TECNOLOGIA WEB-500
+# TECNOLOGIA WEB-500
 Quinto Semestre
-#Docente:
+# Docente:
 Erik Huallpa Aruquipa
-##Estudiante:
-*Ever Tallacagua Quispe
-##Gestion:
+## Estudiante:
+Ever Tallacagua Quispe
+## Gestion:
 I-2023
